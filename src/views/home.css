@@ -5,3 +5,8 @@
   align-items: center;
   flex-direction: column;
 }
+ 
+.home-image {
+  width: 200px;
+  object-fit: cover;
+}
