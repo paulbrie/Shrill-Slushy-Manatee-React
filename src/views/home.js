@@ -15,8 +15,9 @@ const Home = (props) => {
       <img
         src="https://images.unsplash.com/photo-1742201876722-85a042294575?ixid=M3w5MTMyMXwwfDF8YWxsfDJ8fHx8fHx8fDE3NDQ3Mzk0MDF8&amp;ixlib=rb-4.0.3&amp;w=200"
         alt="image"
-        className="home-image"
+        className="home-image1"
       />
+      <img src="/ap%2040-200w.jpeg" alt="image" className="home-image2" />
     </div>
   )
 }

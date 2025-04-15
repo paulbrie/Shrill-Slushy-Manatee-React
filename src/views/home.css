@@ -6,7 +6,12 @@
   flex-direction: column;
 }
  
-.home-image {
+.home-image1 {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.home-image2 {
   width: 200px;
   object-fit: cover;
 }
