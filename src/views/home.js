@@ -22,10 +22,10 @@ const Home = (props) => {
       <img alt="image" src="/turzii%201.png" className="home-image13" />
       <img alt="image" src="/turzii%202.png" className="home-image14" />
       <img alt="image" src="/turzii%203.png" className="home-image15" />
-      <img src="/turzii4.png.png" alt="image" className="home-image16" />
-      <img src="/turzii%205.png" alt="image" className="home-image17" />
-      <img src="/turzii%20332.png" alt="image" className="home-image18" />
-      <img src="/turzii%206.png" alt="image" className="home-image19" />
+      <img alt="image" src="/turzii4.png.png" className="home-image16" />
+      <img alt="image" src="/turzii%205.png" className="home-image17" />
+      <img alt="image" src="/turzii%20332.png" className="home-image18" />
+      <img alt="image" src="/turzii%206.png" className="home-image19" />
     </div>
   )
 }
