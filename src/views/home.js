@@ -14,10 +14,10 @@ const Home = (props) => {
       <span>Test Github</span>
       <img
         alt="image"
-        src="https://images.unsplash.com/photo-1742201876722-85a042294575?ixid=M3w5MTMyMXwwfDF8YWxsfDJ8fHx8fHx8fDE3NDQ3Mzk0MDF8&amp;ixlib=rb-4.0.3&amp;w=200"
+        src="/nume%C3%AC%C2%81riser%2014-200w.jpeg"
         className="home-image1"
       />
-      <img alt="image" src="/ap%2040.jpeg" className="home-image2" />
+      <img src="/ap%2040.jpeg" alt="image" className="home-image2" />
     </div>
   )
 }
